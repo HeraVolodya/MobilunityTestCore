@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHeraCategory.Core.API", "TestHeraCategory.Core.API\TestHeraCategory.Core.API.csproj", "{F62D72CE-D43B-4C7D-ACC9-B5BEC4DDA913}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2E0F85E2-4EFB-45B1-9F55-723454F00BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHeraCategory.Core.BL", "TestHeraCategory.Core.BL\TestHeraCategory.Core.BL.csproj", "{A3AF9957-5305-4915-8FC3-61282FCC318D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHeraCategory.DataAccess", "TestHeraCategory.DataAccess\TestHeraCategory.DataAccess.csproj", "{C3871A93-B68A-4464-9226-FB265A7ABDA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62D72CE-D43B-4C7D-ACC9-B5BEC4DDA913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62D72CE-D43B-4C7D-ACC9-B5BEC4DDA913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62D72CE-D43B-4C7D-ACC9-B5BEC4DDA913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62D72CE-D43B-4C7D-ACC9-B5BEC4DDA913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AF9957-5305-4915-8FC3-61282FCC318D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AF9957-5305-4915-8FC3-61282FCC318D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AF9957-5305-4915-8FC3-61282FCC318D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AF9957-5305-4915-8FC3-61282FCC318D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3871A93-B68A-4464-9226-FB265A7ABDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3871A93-B68A-4464-9226-FB265A7ABDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3871A93-B68A-4464-9226-FB265A7ABDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3871A93-B68A-4464-9226-FB265A7ABDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F62D72CE-D43B-4C7D-ACC9-B5BEC4DDA913} = {2E0F85E2-4EFB-45B1-9F55-723454F00BB2}
+		{A3AF9957-5305-4915-8FC3-61282FCC318D} = {2E0F85E2-4EFB-45B1-9F55-723454F00BB2}
+		{C3871A93-B68A-4464-9226-FB265A7ABDA7} = {2E0F85E2-4EFB-45B1-9F55-723454F00BB2}
+	EndGlobalSection
+EndGlobal

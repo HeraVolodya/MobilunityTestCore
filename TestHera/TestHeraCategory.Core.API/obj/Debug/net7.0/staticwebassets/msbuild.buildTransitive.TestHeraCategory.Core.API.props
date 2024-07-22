@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/TestHeraCategory.Core.API.props" />
+</Project>

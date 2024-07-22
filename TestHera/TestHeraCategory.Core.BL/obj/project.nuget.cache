@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRY8BX3fFTS3xkfsySB6a4a+BUU3gbeeCPMZZAmKYEtLdVRsfYKquiFE9fQcbNis8d6AhPYv0sKSP/b1MSbtRQ==",
+  "success": true,
+  "projectFilePath": "/Users/volodymyrhera/Documents/myProject/Test/TestHera/TestHeraCategory.Core.BL/TestHeraCategory.Core.BL.csproj",
+  "expectedPackageFiles": [
+    "/Users/volodymyrhera/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "f40sKb5hmCDOegirTx/dO6RMqqL/hdd7Pmbvy5Au0ImmW/ANKqE5PyRlSaU3U6wRezv1YQWT5Ymo0cGeYrlCIw==",
+  "success": true,
+  "projectFilePath": "/Users/volodymyrhera/Documents/myProject/Test/TestHera/TestHeraCategory.Core.API/TestHeraCategory.Core.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/volodymyrhera/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/volodymyrhera/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
